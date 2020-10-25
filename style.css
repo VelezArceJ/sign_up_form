@@ -1,0 +1,153 @@
+/*GEN*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #2477c5;
+}
+
+body {
+    background-color: #eceef1;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4c4c4c;
+    text-align: center;
+}
+
+/*HEADER*/
+
+header {
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: end;
+    margin-right: 30px;
+}
+
+header p {
+    margin-right: 7.6em;
+}
+
+header a {
+    position: relative;
+    bottom: .75em;
+}
+
+button {
+    padding: 8px 20px;
+    margin-left: 5px;
+    background-color: #0077C5;
+    color: white;
+    outline: none;
+    border-radius: 5px;
+    border: solid 1px black;
+    font-size: 14px;
+    position: relative;
+    bottom: 15px;
+}
+
+/*MAIN*/
+
+main {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.intuit-logo {
+    width: 400px;
+}
+
+.container {
+    width: 375px;
+    margin: 0 auto;
+    border: 1px solid rgb(180, 179, 179);
+    background-color: white;
+}
+
+#form-header {
+    font-weight: 100;
+    font-size: 22px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.container p, .container a {
+    font-size: 12px;
+}
+
+fieldset {
+    border: none;
+    width: 80%;
+    margin: 0 auto;
+}
+
+input {
+    border-radius: 3px;
+    outline: none;
+    border: rgb(184, 184, 184) 1px solid;
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+label {
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+#data-rates {
+    font-size: 11px;
+}
+
+#create {
+    background-color: #0077C5;
+    color: white;
+    outline: none;
+    border-radius: 5px;
+    border: solid 1px black;
+    font-size: 14px;
+}
+
+#terms, #terms a {
+    text-align: center;
+    margin-top: 30px;
+    font-style: italic;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: lighter;
+}
+
+#form-foot {
+    height: 50px;
+    background: rgb(235, 235, 235);
+    display: block;
+    margin-top: 20px;
+    position: relative;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#form-foot p, #form-foot a {
+    font-size: 10px;
+    line-height: 50px;
+}
+
+/*FOOTER*/
+
+footer {
+    width: 650px;
+    margin-top: 10px;
+    font-size: 12px;
+    display: block;
+    margin: 35px auto 0;
+    line-height: 1.5em;
+}
